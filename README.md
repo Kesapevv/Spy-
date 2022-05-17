@@ -10,6 +10,6 @@
 #### -MVC, Singleton
 
 # Preview:
-<img src="https://user-images.githubusercontent.com/94623317/166899327-4e96b221-3d0b-439e-a834-9cc9bfe602c0.jpg" width="150" height="280">
-<img src="https://user-images.githubusercontent.com/94623317/166899316-b0344dfb-357d-4c18-8422-7ee2ea0c720b.jpg" width="150" height="280">
-<img src="https://user-images.githubusercontent.com/94623317/166899330-fe2af488-85c6-4938-b02a-ccb63c97f4fa.jpg" width="150" height="280">
+<img src="https://user-images.githubusercontent.com/94623317/166899327-4e96b221-3d0b-439e-a834-9cc9bfe602c0.jpg" width="120" height="280">
+<img src="https://user-images.githubusercontent.com/94623317/166899316-b0344dfb-357d-4c18-8422-7ee2ea0c720b.jpg" width="120" height="280">
+<img src="https://user-images.githubusercontent.com/94623317/166899330-fe2af488-85c6-4938-b02a-ccb63c97f4fa.jpg" width="120" height="280">
